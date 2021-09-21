@@ -1,4 +1,4 @@
-# Aether-Framework
+# Aether Framework
 Aether Framework is a wrapper library around OpenGL and OpenAL functions programmed for designing 2D window applications, and games.
 My goal was to build a simple, yet polished framework, which would be a physical proof my programming skills and which would allow me to write low level applications.
 The first version was designed in 200 days (I started working on it around 8th of March 2021), after that time I had finished all the neccessary parts and decided to publish it.
