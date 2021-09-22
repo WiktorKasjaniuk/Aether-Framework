@@ -1,8 +1,10 @@
 # Aether Framework
-Aether Framework is a wrapper library around OpenGL and OpenAL functions programmed for designing 2D window applications, and games.
+Aether Framework is a wrapper library around OpenGL and OpenAL functions programmed for designing 2D window applications and games.
 My goal was to build a simple, yet polished framework, which would be a physical proof my programming skills and which would allow me to write low level applications.
 The first version was designed in 200 days (I started working on it around 8th of March 2021), after that time I had finished all the neccessary parts and decided to publish it.
-The framework still has a lot of features to add, and unfortunately my time is limited, below is the list of planned functionalities.
+Currently, it contains a few singleton classes that manage the application, like AssetManager, LayerManager, EntityManager[ECS], Input and structures for both low and high level rendering.
+The framework still has a lot of features to add, and unfortunately my time is limited.
+Below is the list of planned functionalities.
 
 # "To Do" List
 #### Project
@@ -30,7 +32,7 @@ and ability to connect it while application is running
 # Alternatives
 There are obviously many other, serious projects, alternatives to Aether Framework, including:
 - [SFML (Simple and Fast Multimedia Library)](https://www.sfml-dev.org/)
-- [SDL (Simple DirectMedia Layer)](https://www.libsdl.org/)
+- [SDL (Simple Directmedia Layer)](https://www.libsdl.org/)
 
 # Used Libraries
 All the licenses can be found here or inside reposition.
