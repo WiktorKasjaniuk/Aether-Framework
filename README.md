@@ -36,6 +36,14 @@ There are obviously many other, serious projects, alternatives to Aether Framewo
 - [SDL (Simple Directmedia Layer)](https://www.libsdl.org/)
 
 # Used Libraries
-All the licenses can be found here or inside reposition.
-- FreeType licensed under [FreeTypeLicense](_LICENSE_) or [GPL v2](_LICENSE)
-- (unfinished file) ...
+All the licenses can be found here or inside the reposition.
+- FreeType is licensed under [FreeType License](https://gitlab.freedesktop.org/freetype/freetype/-/blob/master/docs/FTL.TXT) or [GNU General Public License v2](https://gitlab.freedesktop.org/freetype/freetype/-/blob/master/docs/GPLv2.TXT)
+- glad is licensed under [MIT License](https://github.com/Dav1dde/glad/blob/master/LICENSE)
+- glfw is licensed under [zlib/libpng](https://www.glfw.org/license)
+- libsndfile is licensed under [GNU Lesser General Public License v2.1](https://github.com/libsndfile/libsndfile/blob/master/COPYING)
+  - libflac is licensed under [this license](https://github.com/xiph/flac/blob/master/COPYING.Xiph)
+  - libogg is licensed under [this license](https://github.com/xiph/ogg/blob/master/COPYING)
+  - libvorbis is licensed under [this license](https://github.com/xiph/vorbis/blob/master/COPYING)
+- OpenAL Soft is licensed under [GNU LIBRARY GENERAL PUBLIC LICENSE v2](https://github.com/kcat/openal-soft/blob/master/COPYING)
+- stb_image is licensed under [MIT License or Public Domain](https://github.com/nothings/stb/blob/master/LICENSE)
+- utfcpp is licensed under [Boost Software License v1.0](https://github.com/nemtrif/utfcpp/blob/master/LICENSE)
