@@ -13,9 +13,33 @@ Aether Framework is written in `C++ 17` and for now, it has been compiled only t
 ### Documentation
 Due to the lack of time, I have not written the online documentation. Currently descriptions of all features are stored in .hpp files. If people start downloading and using this framework, I will make an online documentation, but this probably won't happen as there exist proffesional, well-documented libraries that counterpart the Aether Framework. In any case, if there are any questions or a need for brief or specific explanation, and I have the time, I will answer you.
 
+# Brief List of Features
+### Structure & System
+- Vector2, Vector3, Vector4, Rectangle and Color structs for needed calcuations
+- Time and Clocks
+- Utf convertions
+- Error logging system
+- Application singleton to manage the project, Window
+- AssetManager, SceneManager, LayerManager
+- Input and Event dispatching through layers
+- Cursor and Clipboard
+- Custom Entity Component System with ability to view entities and components by: groups, component types and sets of included or excluded component types
+### Graphics
+- Matrix3x3, Transform2D, Camera for 2d transformations
+- Font and a Text renderer with an option to retrieve char metrics
+- Shader, Texture, VertexArray classes for rendering and higher level renderers, like Shape or Sprite
+- Batch and instanced rendering abilities, also high level renderers
+- Framebuffer and FrameSprite
+- TextureCanvas for editing textures and images
+- Stencil Testing
+### Sounds
+- Sound sources, Music class for real-time buffering
+- Sounds and Music in 3D space, Listener
+
 # "To Do" List
 #### Project
 - Compile framework to MacOS and Linux
+- Write an online documentation
 #### Utitilty
 - Move and copy operators' overloads for Assets
 - Option to choose between quick sort and insertion sort while sorting EntityComponentSystem views
@@ -47,10 +71,10 @@ All the licenses can be found here or inside the reposition.
 - glad is licensed under [MIT License](https://github.com/Dav1dde/glad/blob/master/LICENSE)
 - glfw is licensed under [zlib/libpng](https://www.glfw.org/license)
 - libsndfile is licensed under [GNU Lesser General Public License v2.1](https://github.com/libsndfile/libsndfile/blob/master/COPYING)
-  - libflac is licensed under [this license](https://github.com/xiph/flac/blob/master/COPYING.Xiph)
-  - libogg is licensed under [this license](https://github.com/xiph/ogg/blob/master/COPYING)
-  - libvorbis is licensed under [this license](https://github.com/xiph/vorbis/blob/master/COPYING)
-- OpenAL Soft is licensed under [GNU LIBRARY GENERAL PUBLIC LICENSE v2](https://github.com/kcat/openal-soft/blob/master/COPYING)
+  - libflac is licensed under [this BSD-3-Clause license](https://github.com/xiph/flac/blob/master/COPYING.Xiph)
+  - libogg is licensed under [this BSD-3-Clause license](https://github.com/xiph/ogg/blob/master/COPYING)
+  - libvorbis is licensed under [this BSD-3-Clause license](https://github.com/xiph/vorbis/blob/master/COPYING)
+- OpenAL Soft is licensed under [GNU Library General Public License v2](https://github.com/kcat/openal-soft/blob/master/COPYING)
 - stb_image is licensed under [MIT License or Public Domain](https://github.com/nothings/stb/blob/master/LICENSE)
 - utfcpp is licensed under [Boost Software License v1.0](https://github.com/nemtrif/utfcpp/blob/master/LICENSE)
 
