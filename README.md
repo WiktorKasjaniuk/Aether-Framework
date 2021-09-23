@@ -7,7 +7,7 @@ Currently, it contains a few singleton classes that manage the application, like
 The framework still has a lot of features to add, and unfortunately my time is limited.
 Below is the list of planned functionalities.
 ### Download Builds
-As for now, the library has been compiled for both `Windows x32 and x64` using the `MSVC compiler`.
+As for now, the library has been compiled for both `Windows x32 and x64` using the `MSVC compiler` on `ISO C++17` standard.
 - [Aether Framework]()
 - [Showcase Program]()
 ### Documentation
