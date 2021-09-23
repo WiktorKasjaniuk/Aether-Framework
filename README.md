@@ -163,7 +163,7 @@ int main()
 	// register the scene
 	ae::SceneId my_scene_id = ae::SceneManager.RegisterScene<MyScene>();
 
-	// tell the framework, that you want to start(or change) a new scene when possible
+	// tell the framework, that you want to start(or change to) a new scene when possible
 	ae::SceneManager.NextScene(my_scene_id);
 
 	// run the application
