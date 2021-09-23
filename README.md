@@ -1,3 +1,4 @@
+![logo](https://user-images.githubusercontent.com/91157484/134574091-12eabb6b-a5d6-4800-9848-dcdef26eaf6c.png)
 ### version 1.0.0
 # Aether Framework
 Aether Framework is a wrapper library around OpenGL and OpenAL functions programmed for designing 2D window applications and games.
