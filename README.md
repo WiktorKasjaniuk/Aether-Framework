@@ -97,7 +97,7 @@ Inside the bin folder, you will find all of the libraries needed for the framewo
 struct MyLayer : public ae::Layer {
 	ae::Sprite sprite;
 
-	MyLayer() {
+	MyLayer() : ae::Layer() {
 
 		// set sprite's size (Sprite can detect it automaticly depending on the texture size, but it's always better to set it manually)
 		sprite.SetSize(ae::Vector2f(500.f, 500.f));
@@ -127,7 +127,7 @@ struct MyLayer : public ae::Layer {
 struct MyScene : public ae::Scene {
 	MyLayer* layer;
 
-	MyScene() {
+	MyScene() : ae::Scene() {
 
 		// load assets to use them later
 		ae::AssetManager.LoadTexture("my_texture", "my_texture.png");
