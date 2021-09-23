@@ -10,7 +10,7 @@ Below is the list of planned functionalities.
 - [Aether Framework]()
 - [Showcase Program]()
 ### Documentation
-You can read the documentation [here](Aether-Framework/wiki) or inside the .hpp files
+You can read the documentation [here](https://github.com/WiktorKasjaniuk/Aether-Framework/wiki) or inside the .hpp files
 
 # "To Do" List
 #### Project
