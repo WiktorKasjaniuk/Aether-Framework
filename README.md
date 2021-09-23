@@ -6,6 +6,9 @@ The first version was designed in 200 days (I started working on it around 8th o
 Currently, it contains a few singleton classes that manage the application, like AssetManager, LayerManager, EntityManager[ECS], Input and structures for both low and high level rendering.
 The framework still has a lot of features to add, and unfortunately my time is limited.
 Below is the list of planned functionalities.
+### Download Builds
+- [Aether Framework]()
+- [Showcase Program]()
 
 # "To Do" List
 #### Project
