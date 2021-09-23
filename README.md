@@ -7,7 +7,7 @@ Currently, it contains a few singleton classes that manage the application, like
 The framework still has a lot of features to add, and unfortunately my time is limited.
 Below is the list of planned functionalities.
 ### Download Builds
-Aether Framework is written in `C++ 17` and for now, it has been compiled only to `Windows x32 & x64` and using `Microsoft Visual Studio Compiler`.
+Aether Framework is written in `C++17` and for now, it has been compiled only to `Windows x32 & x64` and using `Microsoft Visual Studio Compiler`.
 - [Aether Framework]()
 - [Showcase Program]()
 ### Documentation
