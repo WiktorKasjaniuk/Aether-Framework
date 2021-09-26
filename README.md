@@ -44,6 +44,7 @@ Due to the lack of time, I have not written the online documentation. Currently 
 #### Utitilty
 - Move and copy operators' overloads for Assets
 - Option to choose between quick sort and insertion sort while sorting EntityComponentSystem views
+- add `static_assert`s to EntityComponentSystem and SceneManager in order to explicitly state, that component/scene types must inherit ae::Component/ae::Scene (currently, compiler refuses to process the templates without giving extra informations)
 - String class instead of ae::utf namespace, which would be stored in UTF-16 format and convert between UTF-8, UTF-16, UTF-32
 - Datetime and Calendar classes
 #### Graphics
