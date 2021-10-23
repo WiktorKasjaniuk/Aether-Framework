@@ -61,6 +61,9 @@ Due to the lack of time, I have not written the online documentation. Currently 
 - Capture devices and recording sounds
 - Checking for deafault device if it was not present at the beginning of application, 
 and ability to connect it while application is running
+#### Structure
+- Store Entities and Components in lists rather than vectors for iteration safety, this would allow to remove Refresh() and IsAlive() - entities would be removed whenever killed
+- Replace time(NULL) with std::chrono in LogError.hpp
 
 # Alternatives
 There are obviously many other, serious projects, alternatives to Aether Framework, including:
