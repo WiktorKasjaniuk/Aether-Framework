@@ -7,10 +7,13 @@ The first version was designed in 200 days (I started working on it around 8th o
 Currently, it contains a few singleton classes that manage the application, like AssetManager, LayerManager, EntityManager[ECS], Input and structures for both low and high level rendering.
 The framework still has a lot of features to add, and unfortunately my time is limited.
 Below is the list of planned functionalities.
+
 ### Download Builds
 Aether Framework is written in `C++17` and for now, it has been compiled only to `Windows x32 & x64` and using `Microsoft Visual Studio Compiler`.
 - [Aether Framework](https://drive.google.com/file/d/1hQKXS8KYLIdCzyPNT0Y3MkbY5tm9LgCo/view?usp=sharing)
 - [Showcase Program](https://drive.google.com/file/d/1rHMBn7QoI8dr6Waqb8mRx3Ng5LKqp6FF/view?usp=sharing) - Microsoft Visual C++ Redistributable Packages for Visual Studio must be installed on the device in order to run the program (MSVCP140.dll)
+[![Showcase Program](https://user-images.githubusercontent.com/91157484/139534962-5c86e89d-3b03-411b-a69d-603301f7fb8c.png)](https://youtu.be/sns9GW_DMhE "Showcase Program")
+
 ### Documentation
 Due to the lack of time, I have not written the online documentation. Currently descriptions of all features are stored in .hpp files. If people start downloading and using this framework, I will make an online documentation, but this probably won't happen as there exist proffesional, well-documented libraries that counterpart the Aether Framework. In any case, if there are any questions or a need for brief or specific explanation, and I have the time, I will answer you.
 
