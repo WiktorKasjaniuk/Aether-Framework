@@ -11,7 +11,9 @@ Below is the list of planned functionalities.
 ### Download Builds
 Aether Framework is written in `C++17` and for now, it has been compiled only to `Windows x32 & x64` and using `Microsoft Visual Studio Compiler`.
 - [Aether Framework](https://drive.google.com/file/d/1hQKXS8KYLIdCzyPNT0Y3MkbY5tm9LgCo/view?usp=sharing)
-- [Showcase Program](https://drive.google.com/file/d/1rHMBn7QoI8dr6Waqb8mRx3Ng5LKqp6FF/view?usp=sharing) - Microsoft Visual C++ Redistributable Packages for Visual Studio must be installed on the device in order to run the program (MSVCP140.dll)
+- [Showcase Program](https://drive.google.com/file/d/1rHMBn7QoI8dr6Waqb8mRx3Ng5LKqp6FF/view?usp=sharing) - Microsoft Visual C++ Redistributable Packages for Visual Studio must be installed on the device in order to run the program (MSVCP140.dll).
+
+
 [![Showcase Program](https://user-images.githubusercontent.com/91157484/139534962-5c86e89d-3b03-411b-a69d-603301f7fb8c.png)](https://youtu.be/sns9GW_DMhE "Showcase Program")
 
 ### Documentation
