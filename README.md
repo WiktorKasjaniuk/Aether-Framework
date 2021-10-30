@@ -39,7 +39,7 @@ Due to the lack of time, I have not written the online documentation. Currently 
 
 # "To Do" List
 #### Project
-- Compile framework to MacOS and Linux
+- Compile framework to MacOS and Linux and without the need of MSVCP140.dll
 - Write an online documentation
 #### Utitilty
 - Move and copy operators' overloads for Assets
